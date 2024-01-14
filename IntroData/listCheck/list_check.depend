@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699440300 source:c:\awork\y2s1\introdata\listcheck\main.cpp
+	<iostream>
+	<vector>
+	"list.h"
+	"student.h"
+
+1699438012 c:\awork\y2s1\introdata\listcheck\list.h
+	<stdexcept>
+	<iostream>
+
+1699441856 c:\awork\y2s1\introdata\listcheck\student.h
+

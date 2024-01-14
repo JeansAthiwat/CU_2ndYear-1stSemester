@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1698202340 source:c:\awork\y2s1\introdata\listmerge\main.cpp
+	<cassert>
+	<vector>
+	<iostream>
+	<string>
+	"list.h"
+	"student.h"
+
+1698204245 c:\awork\y2s1\introdata\listmerge\list.h
+	<stdexcept>
+	<iostream>
+
+1698206301 c:\awork\y2s1\introdata\listmerge\student.h
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692366506 source:c:\awork\y2s1\introdata\ds00_reverse2.pdf\main.cpp
+	<iostream>
+	<vector>
+

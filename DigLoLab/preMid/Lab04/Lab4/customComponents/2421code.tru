@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truthTable>
+  <variables>
+    <variable name="A"/>
+    <variable name="B"/>
+    <variable name="C"/>
+    <variable name="D"/>
+  </variables>
+  <results>
+    <result>
+      <name>ExcessA</name>
+      <values class="BoolTable">0000011111XXXXXX</values>
+    </result>
+    <result>
+      <name>ExcessB</name>
+      <values class="BoolTable">0000101111XXXXXX</values>
+    </result>
+    <result>
+      <name>ExcessC</name>
+      <values class="BoolTable">0011010011XXXXXX</values>
+    </result>
+    <result>
+      <name>ExcessD</name>
+      <values class="BoolTable">0101010101XXXXXX</values>
+    </result>
+  </results>
+</truthTable>

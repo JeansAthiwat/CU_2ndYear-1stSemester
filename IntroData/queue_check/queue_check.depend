@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695313205 source:c:\awork\y2s1\introdata\queue_check\main.cpp
+	<iostream>
+	<algorithm>
+

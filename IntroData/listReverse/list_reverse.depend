@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1698562699 source:c:\awork\y2s1\introdata\listreverse\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1698562699 c:\awork\y2s1\introdata\listreverse\list.h
+	<stdexcept>
+	<iostream>
+
+1698569084 c:\awork\y2s1\introdata\listreverse\student.h
+	<algorithm>
+	<vector>
+

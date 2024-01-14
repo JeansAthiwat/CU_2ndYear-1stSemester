@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1693191949 source:c:\awork\y2s1\introdata\secondmin\main.cpp
+	<algorithm>
+	<iostream>
+	<stack>
+	<queue>
+	<vector>
+	<set>
+	<map>
+	<list>
+

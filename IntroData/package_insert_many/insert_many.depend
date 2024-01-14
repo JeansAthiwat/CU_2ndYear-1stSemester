@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1572188724 source:c:\awork\y2s1\introdata\package_insert_many\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+	<vector>
+
+1571926314 c:\awork\y2s1\introdata\package_insert_many\vector.h
+	<stdexcept>
+	<iostream>
+
+1695219986 c:\awork\y2s1\introdata\package_insert_many\student.h
+	<algorithm>
+

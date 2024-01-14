@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700309068 source:c:\awork\y2s1\introdata\imbalance\main.cpp
+	<iostream>
+	"map_bst.h"
+
+1700306328 c:\awork\y2s1\introdata\imbalance\map_bst.h
+	<iostream>
+	"student.h"
+
+1700310974 c:\awork\y2s1\introdata\imbalance\student.h
+

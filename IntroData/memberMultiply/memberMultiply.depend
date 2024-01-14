@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692782551 source:c:\awork\y2s1\introdata\membermultiply\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

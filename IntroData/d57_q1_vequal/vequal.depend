@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694673824 source:c:\awork\y2s1\introdata\d57_q1_vequal\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1694673824 c:\awork\y2s1\introdata\d57_q1_vequal\vector.h
+	<stdexcept>
+	<iostream>
+
+1694674098 c:\awork\y2s1\introdata\d57_q1_vequal\student.h
+

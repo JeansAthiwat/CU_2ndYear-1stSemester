@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692355661 source:c:\awork\y2s1\introdata\ds01_pair_sum\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

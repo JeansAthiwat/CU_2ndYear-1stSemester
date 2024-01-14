@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1697182697 source:c:\awork\y2s1\introdata\vectorrangeerase\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1697182697 c:\awork\y2s1\introdata\vectorrangeerase\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1697186126 c:\awork\y2s1\introdata\vectorrangeerase\student.h
+	"vector.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697810597 source:c:\awork\y2s1\introdata\heaperase\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<stdexcept>
+

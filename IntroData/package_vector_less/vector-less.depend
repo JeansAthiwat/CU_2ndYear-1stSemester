@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1637205240 source:c:\awork\y2s1\introdata\package_vector_less\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<cassert>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1637134736 c:\awork\y2s1\introdata\package_vector_less\vector.h
+	<stdexcept>
+	<iostream>
+
+1695224980 c:\awork\y2s1\introdata\package_vector_less\student.h
+

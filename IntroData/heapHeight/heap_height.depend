@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1697598919 source:c:\awork\y2s1\introdata\heapheight\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<stack>
+	"priority_queue.h"
+	"student.h"
+
+1697598919 c:\awork\y2s1\introdata\heapheight\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1697600273 c:\awork\y2s1\introdata\heapheight\student.h
+	<stdio.h>
+	"priority_queue.h"
+	<iostream>
+

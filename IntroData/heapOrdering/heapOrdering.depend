@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697617848 source:c:\awork\y2s1\introdata\heapordering\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<string>
+	<stdexcept>
+

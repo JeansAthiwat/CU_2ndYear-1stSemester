@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538127322 source:c:\awork\y2s1\introdata\ordered_set_package\main.cpp
+	<iostream>
+	"student.h"
+
+1695221237 c:\awork\y2s1\introdata\ordered_set_package\student.h
+	<vector>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633885731 source:c:\awork\y2s1\introdata\package_vector_block_swap\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1633880727 c:\awork\y2s1\introdata\package_vector_block_swap\vector.h
+	<stdexcept>
+	<iostream>
+
+1695282776 c:\awork\y2s1\introdata\package_vector_block_swap\student.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692703688 source:c:\awork\y2s1\introdata\insideinterval\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

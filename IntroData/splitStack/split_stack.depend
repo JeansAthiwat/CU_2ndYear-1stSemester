@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1696324103 source:c:\awork\y2s1\introdata\splitstack\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"student.h"
+
+1696344010 c:\awork\y2s1\introdata\splitstack\student.h
+	"stack.h"
+	<algorithm>
+
+1696324103 c:\awork\y2s1\introdata\splitstack\stack.h
+	<stdexcept>
+	<iostream>
+	<set>
+

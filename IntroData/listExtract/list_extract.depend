@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698574216 source:c:\awork\y2s1\introdata\listextract\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1698574216 c:\awork\y2s1\introdata\listextract\list.h
+	<stdexcept>
+	<iostream>
+
+1698584071 c:\awork\y2s1\introdata\listextract\student.h
+	<algorithm>
+

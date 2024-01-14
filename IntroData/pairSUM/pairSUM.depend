@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692357651 source:c:\awork\y2s1\introdata\pairsum\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<unordered_set>
+

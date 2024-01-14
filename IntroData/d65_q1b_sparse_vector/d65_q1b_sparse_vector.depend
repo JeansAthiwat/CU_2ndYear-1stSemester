@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693930847 source:c:\awork\y2s1\introdata\d65_q1b_sparse_vector\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

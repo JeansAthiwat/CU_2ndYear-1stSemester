@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698518684 source:c:\awork\y2s1\introdata\d63_q3a_rank_in_heap\main.cpp
+	"student.h"
+	<iostream>
+	<string>
+	<cassert>
+
+1698516609 c:\awork\y2s1\introdata\d63_q3a_rank_in_heap\priority_queue.h
+	<iostream>
+	<stdexcept>
+
+1698519273 c:\awork\y2s1\introdata\d63_q3a_rank_in_heap\student.h
+	"priority_queue.h"
+	<functional>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695733336 source:c:\awork\y2s1\introdata\jeanspair\main.cpp
+	<iostream>
+	"pair.h"
+
+1695733358 c:\awork\y2s1\introdata\jeanspair\pair.h
+	<iostream>
+

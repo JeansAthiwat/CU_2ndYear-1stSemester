@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1697975443 source:c:\awork\y2s1\introdata\heaplevel\main.cpp
+	<algorithm>
+	<random>
+	<chrono>
+	<cassert>
+	<string>
+	"priority_queue.h"
+	"student.h"
+
+1697975443 c:\awork\y2s1\introdata\heaplevel\priority_queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1697997660 c:\awork\y2s1\introdata\heaplevel\student.h
+	<algorithm>
+	<vector>
+	"priority_queue.h"
+

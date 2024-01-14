@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692950707 source:c:\awork\y2s1\introdata\vectorlisterase\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+

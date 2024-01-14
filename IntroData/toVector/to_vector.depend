@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695294006 source:c:\awork\y2s1\introdata\tovector\main.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"queue.h"
+	"student.h"
+
+1695294006 c:\awork\y2s1\introdata\tovector\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1695294655 c:\awork\y2s1\introdata\tovector\student.h
+

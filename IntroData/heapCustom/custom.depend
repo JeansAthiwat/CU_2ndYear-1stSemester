@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1697973910 source:c:\awork\y2s1\introdata\heapcustom\main.cpp
+	<iostream>
+	<vector>
+	"song.h"
+
+1697975179 c:\awork\y2s1\introdata\heapcustom\song.h
+	<iostream>
+	<queue>
+	<string>
+	<vector>
+	"priority_queue.h"
+
+1697973910 c:\awork\y2s1\introdata\heapcustom\priority_queue.h
+	<stdexcept>
+	<iostream>
+

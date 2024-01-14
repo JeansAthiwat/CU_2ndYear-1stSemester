@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1700219242 source:c:\awork\y2s1\introdata\shallowestleaf\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1700219242 c:\awork\y2s1\introdata\shallowestleaf\map_bst.h
+	<iostream>
+
+1700222953 c:\awork\y2s1\introdata\shallowestleaf\student.h
+	<algorithm>
+	<iostream>
+

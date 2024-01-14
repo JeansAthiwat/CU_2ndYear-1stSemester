@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699944302 source:c:\awork\y2s1\introdata\d57_q1_sparse\main_sparse.cpp
+	"sparsegraph.h"
+	<iostream>
+	<vector>
+
+1699945492 c:\awork\y2s1\introdata\d57_q1_sparse\sparsegraph.h
+	<set>
+	<vector>
+

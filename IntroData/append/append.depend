@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695299651 source:c:\awork\y2s1\introdata\append\main.cpp
+	<iostream>
+	"student.h"
+
+1695299996 c:\awork\y2s1\introdata\append\student.h
+	"stack.h"
+	"queue.h"
+
+1695299651 c:\awork\y2s1\introdata\append\stack.h
+	<stdexcept>
+	<iostream>
+
+1695299651 c:\awork\y2s1\introdata\append\queue.h
+	<stdexcept>
+	<iostream>
+

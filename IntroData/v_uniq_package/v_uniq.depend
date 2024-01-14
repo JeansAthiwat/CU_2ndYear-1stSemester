@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1508116977 source:c:\awork\y2s1\introdata\v_uniq_package\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507942111 c:\awork\y2s1\introdata\v_uniq_package\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1694943013 c:\awork\y2s1\introdata\v_uniq_package\student.h
+	<iostream>
+	<set>
+

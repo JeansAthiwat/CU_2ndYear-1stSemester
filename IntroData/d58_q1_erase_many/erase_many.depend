@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1694574479 source:c:\awork\y2s1\introdata\d58_q1_erase_many\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1694574479 c:\awork\y2s1\introdata\d58_q1_erase_many\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1694671355 c:\awork\y2s1\introdata\d58_q1_erase_many\student.h
+

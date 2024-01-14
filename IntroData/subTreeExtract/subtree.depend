@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1700224898 source:c:\awork\y2s1\introdata\subtreeextract\main.cpp
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<set>
+
+1700228720 c:\awork\y2s1\introdata\subtreeextract\map_bst.h
+	<iostream>
+
+1700228720 c:\awork\y2s1\introdata\subtreeextract\student.h
+	<algorithm>
+	<vector>
+	<iostream>
+	"map_bst.h"
+

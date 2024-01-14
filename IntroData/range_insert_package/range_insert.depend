@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1488942532 source:c:\awork\y2s1\introdata\range_insert_package\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1488856347 c:\awork\y2s1\introdata\range_insert_package\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1694938648 c:\awork\y2s1\introdata\range_insert_package\student.h
+

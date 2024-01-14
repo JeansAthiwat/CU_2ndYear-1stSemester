@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truthTable>
+  <variables>
+    <variable name="QD^n"/>
+    <variable name="QC^n"/>
+    <variable name="QB^n"/>
+    <variable name="QA^n"/>
+  </variables>
+  <results>
+    <result>
+      <name>QD^{n+1}</name>
+      <values class="BoolTable">0000000111111110</values>
+    </result>
+    <result>
+      <name>QC^{n+1}</name>
+      <values class="BoolTable">0001111000011110</values>
+    </result>
+    <result>
+      <name>QB^{n+1}</name>
+      <values class="BoolTable">0110011001100110</values>
+    </result>
+    <result>
+      <name>QA^{n+1}</name>
+      <values class="BoolTable">1010101010101010</values>
+    </result>
+  </results>
+</truthTable>

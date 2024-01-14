@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666701677 source:c:\awork\y2s1\introdata\package_some_move\main.cpp
+	"student.h"
+	"vector-sm.h"
+	<iostream>
+	<vector>
+
+1695131769 c:\awork\y2s1\introdata\package_some_move\student.h
+	"vector-sm.h"
+	<algorithm>
+	<iostream>
+	<vector>
+
+1666701687 c:\awork\y2s1\introdata\package_some_move\vector-sm.h
+	<algorithm>
+	<iostream>
+	<stdexcept>
+	<vector>
+

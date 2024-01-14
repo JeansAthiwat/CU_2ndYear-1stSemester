@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1700316521 source:c:\awork\y2s1\introdata\bstatlevel\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1700317985 c:\awork\y2s1\introdata\bstatlevel\map_bst.h
+	<iostream>
+	<vector>
+
+1700318249 c:\awork\y2s1\introdata\bstatlevel\student.h
+	<algorithm>
+	<iostream>
+	<vector>
+

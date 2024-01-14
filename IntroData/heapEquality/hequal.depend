@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1697789443 source:c:\awork\y2s1\introdata\heapequality\main.cpp
+	<stdexcept>
+	<iostream>
+	"priority_queue.h"
+	"student.h"
+	<vector>
+
+1697789443 c:\awork\y2s1\introdata\heapequality\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1697789898 c:\awork\y2s1\introdata\heapequality\student.h
+

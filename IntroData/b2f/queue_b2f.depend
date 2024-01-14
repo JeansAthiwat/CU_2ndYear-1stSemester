@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1695305797 source:c:\awork\y2s1\introdata\b2f\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+	<stdio.h>
+
+1695305797 c:\awork\y2s1\introdata\b2f\queue.h
+	<stdexcept>
+	<iostream>
+
+1695309982 c:\awork\y2s1\introdata\b2f\student.h
+	<algorithm>
+	<iostream>
+

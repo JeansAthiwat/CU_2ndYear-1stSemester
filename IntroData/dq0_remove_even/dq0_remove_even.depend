@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692175798 source:c:\awork\y2s1\introdata\dq0_remove_even\main.cpp
+	<iostream>
+	<vector>
+

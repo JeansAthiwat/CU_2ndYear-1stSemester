@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698528209 source:c:\awork\y2s1\introdata\rankinheap\main.cpp
+	<iostream>
+	<vector>
+	"priority_queue.h"
+	"student.h"
+
+1698528209 c:\awork\y2s1\introdata\rankinheap\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1698531634 c:\awork\y2s1\introdata\rankinheap\student.h
+	<cmath>
+	<algorithm>
+

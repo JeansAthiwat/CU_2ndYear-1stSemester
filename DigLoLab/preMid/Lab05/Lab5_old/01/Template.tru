@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truthTable>
+  <variables>
+    <variable name="A"/>
+    <variable name="B"/>
+    <variable name="C"/>
+    <variable name="D"/>
+  </variables>
+  <results>
+    <result>
+      <name>After</name>
+      <values class="BoolTable">1111111101010100</values>
+    </result>
+  </results>
+</truthTable>

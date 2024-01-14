@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698511339 source:c:\awork\y2s1\introdata\heapnoderelation2\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+

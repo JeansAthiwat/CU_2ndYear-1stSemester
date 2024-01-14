@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698809695 source:c:\awork\y2s1\introdata\playlistmanagement\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+

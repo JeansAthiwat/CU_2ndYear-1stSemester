@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1698927012 source:c:\awork\y2s1\introdata\shift\main.cpp
+	<iostream>
+	<assert.h>
+	"list.h"
+	<string>
+
+1698926205 c:\awork\y2s1\introdata\shift\list.h
+	<stdexcept>
+	<iostream>
+	"shift.h"
+
+1698993091 c:\awork\y2s1\introdata\shift\shift.h
+

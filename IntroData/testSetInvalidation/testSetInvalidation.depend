@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695720326 source:c:\awork\y2s1\introdata\testsetinvalidation\main.cpp
+	<iostream>
+	<set>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1696322781 source:c:\awork\y2s1\introdata\queuereverse\main.cpp
+	<iostream>
+	<string>
+	"queue.h"
+	"student.h"
+
+1696322781 c:\awork\y2s1\introdata\queuereverse\queue.h
+	<stdexcept>
+	<iostream>
+
+1696323449 c:\awork\y2s1\introdata\queuereverse\student.h
+	<cassert>
+

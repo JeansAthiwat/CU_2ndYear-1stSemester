@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695295930 source:c:\awork\y2s1\introdata\qat\main.cpp
+	<stdexcept>
+	<iostream>
+	"queue.h"
+	"student.h"
+	<vector>
+
+1695295930 c:\awork\y2s1\introdata\qat\queue.h
+	<stdexcept>
+	<iostream>
+
+1695296994 c:\awork\y2s1\introdata\qat\student.h
+

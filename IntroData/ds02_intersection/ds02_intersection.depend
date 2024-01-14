@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692425471 source:c:\awork\y2s1\introdata\ds02_intersection\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
